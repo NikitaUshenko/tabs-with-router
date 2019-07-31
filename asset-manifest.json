@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tabs-with-router/static/css/main.27d0b80d.chunk.css",
-    "main.js": "/tabs-with-router/static/js/main.1215ab46.chunk.js",
-    "main.js.map": "/tabs-with-router/static/js/main.1215ab46.chunk.js.map",
+    "main.js": "/tabs-with-router/static/js/main.c336b1ac.chunk.js",
+    "main.js.map": "/tabs-with-router/static/js/main.c336b1ac.chunk.js.map",
     "runtime~main.js": "/tabs-with-router/static/js/runtime~main.8e076b95.js",
     "runtime~main.js.map": "/tabs-with-router/static/js/runtime~main.8e076b95.js.map",
     "static/js/2.c213497e.chunk.js": "/tabs-with-router/static/js/2.c213497e.chunk.js",
     "static/js/2.c213497e.chunk.js.map": "/tabs-with-router/static/js/2.c213497e.chunk.js.map",
     "index.html": "/tabs-with-router/index.html",
-    "precache-manifest.8ef3de234c0ff14d92ba54d877a768d9.js": "/tabs-with-router/precache-manifest.8ef3de234c0ff14d92ba54d877a768d9.js",
+    "precache-manifest.18b4a61c94ede2dbd6dbe87696ee4bc6.js": "/tabs-with-router/precache-manifest.18b4a61c94ede2dbd6dbe87696ee4bc6.js",
     "service-worker.js": "/tabs-with-router/service-worker.js",
     "static/css/main.27d0b80d.chunk.css.map": "/tabs-with-router/static/css/main.27d0b80d.chunk.css.map"
   }
